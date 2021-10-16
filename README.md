@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yoikodata
-- 👀 I’m interested in ETL and analytics
+- 👀 I’m interested in building ETL pipelines and data analytics/science
 - 🌱 I’m currently learning python data manipulation, statistics, and visualizations
 - 💞️ I’m looking to collaborate on projects for optimization
 - 📫 How to reach me: email yoikotumangan@gmail.com
